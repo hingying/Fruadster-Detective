@@ -12,12 +12,12 @@ The dataset used in this project is simulated following the guidelines in [Credi
 
   ## Content
 
-| |Document | Progress |
-| :---   | :--- | :---  |
-| 1 |Dataset| v  |   
-| 2 |Exploratory Data Analysis    | v  |          
-| 3 |Dual Model  | v  |      
-| 4 |Presentation   | v  |      
+| |Document | Progress |Reference|
+| :---   | :--- | :---  | :---  |
+| 1 |Dataset| v  | fraudism_v5.py,simulated-data |  
+| 2 |Exploratory Data Analysis    | v  |Credit_Card_fraud_EDA.ipynb,Feature engineering Table.pdf  |     
+| 3 |Dual Model  | v  |  Dual_Model.ipynb    |
+| 4 |Presentation   | v  |  Capstone PDF.pdf  |  
 
   
 ## Find more about my work
